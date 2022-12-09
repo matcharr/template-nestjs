@@ -1,4 +1,4 @@
-# A Nextjs starter template on Gitpod
+# A Nestjs starter template on Gitpod
 
 This is a [Nest.js doc](https://docs.nestjs.com/) template configured for ephemeral development environments on [Gitpod](https://www.gitpod.io/).
 
@@ -16,4 +16,4 @@ Click the above "Open in Gitpod" button to start a new workspace. Once you're re
 
 ### An existing project
 
-To get started with Next.js on Gitpod, add a [`.gitpod.yml`](./.gitpod.yml) file which contains the configuration to improve the developer experience on Gitpod. To learn more, please see the [Getting Started](https://www.gitpod.io/docs/getting-started) documentation.
+To get started with Nest.js on Gitpod, add a [`.gitpod.yml`](./.gitpod.yml) file which contains the configuration to improve the developer experience on Gitpod. To learn more, please see the [Getting Started](https://www.gitpod.io/docs/getting-started) documentation.
